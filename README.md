@@ -5,4 +5,4 @@ H2 DB Console: http://localhost:8080/h2-console JDBC URL:jdbc:h2:mem:testdb, Log
 Created by Anton Mekh for Empik
 
 (ENG) Project use Java 17 (Amazon Corretto), Spring Boot, Hibernate, Web, JPA, H2, Webflux, Webclient and building via gradle.
-(PL) Projekt wykorzystuje Java 17, Spring Boot, Hibernate, Web, JPA, H2, Webflux, Webclient i budowanie poprzez gradle.
+(PL) Projekt wykorzystuje Java 17 (Amazon Corretto), Spring Boot, Hibernate, Web, JPA, H2, Webflux, Webclient i budowanie poprzez gradle.
